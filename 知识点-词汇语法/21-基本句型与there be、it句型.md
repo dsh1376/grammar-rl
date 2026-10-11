@@ -199,8 +199,8 @@ Part III 试题通过句型骨架排除干扰项的核心路径有三条：
 | 核心句型结构 | 例句 |
 | --- | --- |
 | `find / think / make / consider / feel / believe + it + adj./n. + to do sth.` | `I find it hard to get up early.` |
-| `find / think / make / consider / feel / believe + it + adj./n. + that 从句` | `We think it our duty to help.` |
-| `make it a rule + to do sth.` / `take it for granted + that 从句` | `He makes it a rule to rise at six.` |
+| `find / think / make / consider / feel / believe + it + adj./n. + that 从句` | `We think it strange that he didn't come.` |
+| `make it a rule + to do sth.` / `take it for granted + that 从句` | `He makes it a rule to rise at six.` / `We take it for granted that he will win.` |
 
 **考场刚性铁律**：在 `SVOC` 结构中，只要宾语是不定式或 `that` 从句且带有形容词/名词作宾语补足语，**动词与宾补之间必须插入形式宾语 `it`**（严禁漏掉 `it` 写成 `*I find hard to get up early`，也严禁用 `this / that` 顶替 `it`）。`it` 的指代用法及与 `one / that` 的对比详见 `20-代词与it的用法.md` 第 2.9 节。
 
@@ -295,7 +295,7 @@ Part III 试题通过句型骨架排除干扰项的核心路径有三条：
 - **译文**：约翰逊家丢失的那辆汽车被发现遗弃在高速公路边的树林里。
 - **解题思路**：① 定位题干信号：主句主干 `The lost car ... was found ___` 是复合宾语结构 `find + 宾语 + 宾补`（`SVOC`）的**被动语态形式**（原宾语 `the lost car` 提至主语位，原宾语补足语留在 `was found` 之后成为主语补足语）。② 套用补语形式与词义规则：单数主语 `car` 与“遗弃、抛弃”是被动关系，且地点状语 `in the woods`（在树林里）对应失窃车辆被丢弃的现场状态，故用过去分词 `abandoned`（被遗弃的）。③ 得出唯一答案：故选 D。
 - **干扰项分析**：A `vanished`（消失了的）为不及物动词分词，且与 `was found`（被找到了）直接矛盾；B `scattered`（零星散落的）要求主语为复数事物；C `rejected`（被拒绝/驳回的）主语常为提议、申请或残次品，不修饰失窃汽车。
-- **举一反三**：`find / see / hear / keep / leave + 宾语 + 宾补`（`SVOC`）变为被动语态后，緊跟在 `be found / seen / heard / kept / left` 之后的成分依然是补语，其分词形式仍按与主语的主被动关系判定：`He was found lying on the ground.`（主动进行）vs `The door was found locked.`（被动状态）。
+- **举一反三**：`find / see / hear / keep / leave + 宾语 + 宾补`（`SVOC`）变为被动语态后，紧跟在 `be found / seen / heard / kept / left` 之后的成分依然是补语，其分词形式仍按与主语的主被动关系判定：`He was found lying on the ground.`（主动进行）vs `The door was found locked.`（被动状态）。
 
 ### 真题（五）第32题
 
